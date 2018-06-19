@@ -1,4 +1,5 @@
-var animal = 'dog'
+var animal = 'cat'
+retun 
 
 function myAnimal() {
   return animal
