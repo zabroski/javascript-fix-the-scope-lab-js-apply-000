@@ -1,5 +1,5 @@
 var animal = 'cat'
-retun 
+
 
 function myAnimal() {
   return animal
